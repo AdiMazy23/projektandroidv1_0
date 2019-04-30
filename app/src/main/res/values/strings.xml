@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Aplikacja 1</string>
+    <string name="todo">TODO</string>
+
+    <string name="wybierz_dzwonek">Wybierz dzwonek</string>
+    <string name="wybierz_kontakt">Wybierz kontakt</string>
+    <string name="info_wybierz">WYBIERZ KONTAKT</string>
+
+    <string name="Sound_1">Sound_1</string>
+    <string name="Sound_2">Sound_2</string>
+    <string name="Sound_3">Sound_3</string>
+    <string name="Sound_4">Sound_4</string>
+    <string name="Sound_5">Sound_5</string>
+
+    <string name="akceptuj">Akceptuj</string>
+    <string name="anuluj">Anuluj</string>
+
+    <string-array name="spin">
+        <item>Adam Małysz</item>
+        <item>Justyna Steczkowska</item>
+        <item>Agnieszka Radwańska</item>
+        <item>JayZ</item>
+        <item>Frank Lampard</item>
+    </string-array>
+</resources>
